@@ -21,6 +21,3 @@
     - Cross-validation
     - Hyperparameter tuning
     - Feature selection (PCA, etc.)
-
-    ## 🙋‍♀️ Author
-    Created by Jasmine
